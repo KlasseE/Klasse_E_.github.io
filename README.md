@@ -1,4 +1,3 @@
-# Klasse_E_.github.io
 <html>
 	<head>
 		<title>Klasse_E_</title>
